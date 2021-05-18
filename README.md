@@ -1,9 +1,14 @@
 ### Hi there 👋, my name is **Akash Patel**
 #### I am a student at New Horizons Coding Bootcamp
 I'm Akash Patel currently a 1st year student at @NHSTL an aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. 
+
+
+<img src="![image](https://user-images.githubusercontent.com/84330884/118709988-b4982700-b7eb-11eb-9250-d4c84afab8de.png)" width="300" height="300"/>
+
+
 💡 I have a drive and determination towards educating myself and perfecting Programming.
 
-Skills: (**JS / REACT / HTML / CSS / PYTHON / JAVA**)
+Known Technologies: (**JS / REACT / HTML / CSS / PYTHON / JAVA**)
 
 - 🔭 I’m currently working on MERN/MEAN 
 - 🌱 I’m currently learning Github 
@@ -13,6 +18,7 @@ Skills: (**JS / REACT / HTML / CSS / PYTHON / JAVA**)
 - 📫 How to reach me: **Email**:akashp961808@gmail.com   **Cell**:(443)-660-6026 
 - ⚡ Fun fact: Avid Learner who wants to hone in and learn and progress within Software Development  
 
+https://www.facebook.com/ace.arp.14/
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashPatel9618)  
 
