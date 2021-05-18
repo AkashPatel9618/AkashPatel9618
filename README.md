@@ -4,6 +4,11 @@
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me Email: akashp961808@gmail.com  
                      Cell: (443)660-6026
+I'm Akash Patel currently a 1st year student at @NHSTL  and aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. 💡 and I have a love/hate relationship with Programming 😐
+
+Connect with me 😃
+AkashPa28708003 Twitter Aku9618 Reddit Akash Patel LinkdinVedant
+
 
 <!---
 AkashPatel9618/AkashPatel9618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
