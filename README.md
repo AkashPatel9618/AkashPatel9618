@@ -1,19 +1,32 @@
-I'm Akash Patel currently a 1st year student at @NHSTL an aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. 💡 and I have a love/hate relationship with Programming 😐
+### Hi there 👋, my name is **Akash Patel**
+#### I am a student at New Horizons Coding Bootcamp
+I'm Akash Patel currently a 1st year student at @NHSTL an aspiring software developer💻. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. 
+💡 I have a drive and determination towards educating myself and perfecting Programming.
 
-- 👋 Hi, I’m @AkashPatel9618
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python, Java, JavaScript, HTML, GitHub, Tomcat, and MERN/MEAN
-- 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me Email: akashp961808@gmail.com  
-                     Cell: (443)660-6026
-#Connect with me 😃
-AkashPa28708003 Twitter Aku9618 Reddit Akash Patel LinkdinVedant
+Skills: (**JS / REACT / HTML / CSS / PYTHON / JAVA**)
 
-#Languages I use
--Python 
--Java
--HTML
--Javascript
+- 🔭 I’m currently working on MERN/MEAN 
+- 🌱 I’m currently learning Github 
+- 👯 I’m looking to collaborate on Software Development Projects 
+- 🤔 I’m looking for help with Web Development 
+- 💬 Ask me about Javascript 
+- 📫 How to reach me: **Email**:akashp961808@gmail.com   **Cell**:(443)-660-6026 
+- ⚡ Fun fact: Avid Learner who wants to hone in and learn and progress within Software Development  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AkashPatel9618)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AkashPatel9618)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatel9618)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashPatel9618&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkashPatel9618)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AkashPatel9618)  
+
+![Profile views](https://gpvc.arturio.dev/AkashPatel9618)  
 
 <!---
 AkashPatel9618/AkashPatel9618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
