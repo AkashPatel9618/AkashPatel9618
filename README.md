@@ -10,7 +10,11 @@ Connect with me 😃
 AkashPa28708003 Twitter Aku9618 Reddit Akash Patel LinkdinVedant
 
 Languages I use
-https://www.google.com/search?q=html+png&rlz=1C1VDKB_enUS944US944&sxsrf=ALeKk00e2HxD5OEENO2boW8Uf6M8hNnnVA:1621357202908&tbm=isch&source=iu&ictx=1&fir=D63wmr2otOb3eM%252C16DGQenbS2GyWM%252C_&vet=1&usg=AI4_-kS02FUd481LZj79OIQ8x8v-W8IZYA&sa=X&ved=2ahUKEwiC24eh2tPwAhW2FVkFHcnyCL0Q9QF6BAgKEAE#imgrc=D63wmr2otOb3eM
+Python 
+Java
+HTML
+Javascript
+
 <!---
 AkashPatel9618/AkashPatel9618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
