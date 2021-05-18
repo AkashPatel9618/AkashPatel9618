@@ -6,10 +6,10 @@ I'm Akash Patel currently a 1st year student at @NHSTL an aspiring software deve
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me Email: akashp961808@gmail.com  
                      Cell: (443)660-6026
-Connect with me 😃
+#Connect with me 😃
 AkashPa28708003 Twitter Aku9618 Reddit Akash Patel LinkdinVedant
 
-Languages I use
+#Languages I use
 Python 
 Java
 HTML
