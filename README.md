@@ -10,10 +10,10 @@ I'm Akash Patel currently a 1st year student at @NHSTL an aspiring software deve
 AkashPa28708003 Twitter Aku9618 Reddit Akash Patel LinkdinVedant
 
 #Languages I use
-Python 
-Java
-HTML
-Javascript
+-Python 
+-Java
+-HTML
+-Javascript
 
 <!---
 AkashPatel9618/AkashPatel9618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
